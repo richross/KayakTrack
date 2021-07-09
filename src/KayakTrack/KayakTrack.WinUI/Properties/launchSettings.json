@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "KayakTrack.WinUI": {
+      "commandName": "AppContainer"
+    }
+  }
+}
